@@ -9,8 +9,7 @@
 
 # Technologies I used:
 
-<div style="display:flex;justify-content:space-around">
- <a href="https://reactjs.org/" >
+  <a href="https://reactjs.org/" >
 <img src="./images/react.svg" width="40" title="ReactJS" >
  </a>
  <a href="https://nestjs.com/" >
@@ -44,17 +43,16 @@ Postgresql">
  <a href="https://www.mongodb.com/" >
 <img src="./images/mongodb.svg" width="40" title="MongoDB">
 </a>
-</div>
-</br>
+ </br>
 </br>
 
 # Get in Touch :
 <a href="https://www.linkedin.com/in/mohamed-amine-hamdi-754654105/" >
-<img src="./images/linkedin.svg" width="40">
+<img src="./images/linkedin.svg" width="40" align="left">
 </a>
 <a href="https://www.facebook.com/hamdimohamedaminedev">
-<img src="./images/facebook.svg" width="40" >
+<img src="./images/facebook.svg" width="40" align="left">
 </a>
 <a href="https://twitter.com/HamdiAmine14">
-<img src="./images/twitter.svg" width="40" >
+<img src="./images/twitter.svg" width="40" align="left">
 </a>
