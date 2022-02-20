@@ -10,38 +10,38 @@
 # Technologies I used:
 
   <a href="https://reactjs.org/" >
-<img src="./images/react.svg" width="40" title="ReactJS" >
+<img src="./images/react.svg" width="40" title="ReactJS" align="left">
  </a>
  <a href="https://nestjs.com/" >
-<img src="./images/nestjs.svg" width="40" title="NestJS">
+<img src="./images/nestjs.svg" width="40" title="NestJS" align="left">
 </a>
  <a href="https://nodejs.org" >
-<img src="./images/nodejs.svg" width="40" title="NodeJS">
+<img src="./images/nodejs.svg" width="40" title="NodeJS" align="left">
 </a>
  <a href="https://nextjs.org/" >
-<img src="./images/nextjs.svg" width="40" title="NextJS">
+<img src="./images/nextjs.svg" width="40" title="NextJS" align="left">
 </a>
  <a href="https://mui.com/" >
-<img src="./images/material-ui.svg" width="40" title="Material-UI">
+<img src="./images/material-ui.svg" width="40" title="Material-UI" align="left">
 </a>
  <a href="https://www.docker.com/" >
-<img src="./images/docker.svg" width="40" title="Docker">
+<img src="./images/docker.svg" width="40" title="Docker" align="left">
 </a>
  <a href="https://loopback.io/" >
-<img src="./images/loopback.svg" width="40" title="Loopback">
+<img src="./images/loopback.svg" width="40" title="Loopback" align="left">
 </a>
  <a href="https://www.gatsbyjs.com/" >
-<img src="./images/gatsby.svg" width="40" title="GatsbyJS">
+<img src="./images/gatsby.svg" width="40" title="GatsbyJS" align="left">
 </a>
  <a href="https://www.java.com" >
-<img src="./images/java.svg" width="40" title="Java">
+<img src="./images/java.svg" width="40" title="Java" align="left">
 </a>
  <a href="https://www.postgresql.org/" >
 <img src="./images/postgresql.svg" width="40" title="
-Postgresql">
+Postgresql" align="left">
 </a>
  <a href="https://www.mongodb.com/" >
-<img src="./images/mongodb.svg" width="40" title="MongoDB">
+<img src="./images/mongodb.svg" width="40" title="MongoDB" align="left">
 </a>
  </br>
 </br>
