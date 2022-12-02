@@ -1,4 +1,4 @@
-# Hello, I'am Amine Hamdi
+# Hello, I'am Mohamed Amine Hamdi
 
 ## Fullstack developer who loves everything related to technology
 
